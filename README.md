@@ -1,5 +1,3 @@
-# kakamote
-kakamotel
 # How to use
 
 1. pkg install update
