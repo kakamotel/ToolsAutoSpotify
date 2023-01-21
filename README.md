@@ -1,15 +1,17 @@
+# ToolsAutoSpotify
+
 # How to use
 
 1. pkg install update
 2. pkg install php
-3. git clone https://github.com/agathasangkara/spotifytools
+3. git clone https://github.com/kakamotel/ToolsAutoSpotify
 4. php index.php
 
 # 
 
 
 # Contact me
-email: agathasangkara@proton.me
+email: nutriboost0@proton.me
 
 # Offer
 
